@@ -117,7 +117,7 @@ const timer = () => {
       setTimeout(() => {
 
       gameOver(id);
-      }, 10000);
+      }, 10);
     }
   }, 1000);
 
